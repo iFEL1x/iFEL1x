@@ -13,6 +13,6 @@ ____
 ____
 
 ### Люблю игры во всех их проявлениях :video_game:
-*Демонстрация одного из моих проктов.*
+*Демонстрация одного из моих проектов.*
 
 ![PLATFORMER 2D](https://github.com/iFEL1x/iFEL1x/blob/main/Resources/Image/Gif/Create%20Project.gif)
